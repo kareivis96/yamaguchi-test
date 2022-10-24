@@ -1,0 +1,13 @@
+.table__picture-container {
+  position: relative;
+  grid-area: picture;
+  box-sizing: border-box;
+  margin: 50px 0 0;
+  padding-bottom: -80.2%;
+}
+
+@media (max-width: 768px) {
+  .table__picture-container {
+    margin: 0 0 49px;
+  }
+}

@@ -1,0 +1,8 @@
+.table__buttons-container {
+  position: absolute;
+  left: 25.9%;
+  bottom: 24%;
+  width: 48.6%;
+  display: flex;
+  justify-content: space-between;
+}

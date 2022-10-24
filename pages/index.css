@@ -1,0 +1,26 @@
+/* Обнуление стилей и основные шрифты */
+@import url('../vendor/reset.css');
+@import url('../vendor/fonts/fonts.css');
+
+/* основные стили страницы */
+@import url('../blocks/body/body.css');
+
+/* стили блока table */
+@import url('../blocks/table/table.css');
+@import url('../blocks/table/__grid/table__grid.css');
+@import url('../blocks/table/__picture-container/table__picture-container.css');
+@import url('../blocks/table/__img/table__img.css');
+@import url('../blocks/table/__img/_type/table__img_type_hide.css');
+@import url('../blocks/table/__img/_type/table__img_type_bottom.css');
+@import url('../blocks/table/__buttons-container/table__buttons-container.css');
+@import url('../blocks/table/__button/table__button.css');
+@import url('../blocks/table/__heading/table__heading.css');
+@import url('../blocks/table/__paragraph/table__paragraph.css');
+@import url('../blocks/table/__paragraph/_type/table__paragraph_type_first.css');
+@import url('../blocks/table/__paragraph/_type/table__paragraph_type_second.css');
+
+
+
+@import url('../blocks/body/body.css');
+@import url('../blocks/body/body.css');
+@import url('../blocks/body/body.css');

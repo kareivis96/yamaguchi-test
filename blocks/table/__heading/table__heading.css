@@ -1,0 +1,37 @@
+.table__heading {
+  cursor: default;
+  grid-area: heading;
+  margin: 0 0 34px;
+  font-size: 62px;
+  line-height: 100%;
+  color: #0B64FE;
+}
+
+@media (max-width: 1440px) {
+  .table__heading {
+    margin: 0 0 20px;
+    font-size: 50px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .table__heading {
+    margin: 0 0 10px;
+    font-size: 38px;
+  }
+}
+
+@media (max-width: 768px) {
+  .table__heading {
+    margin: 0 0 16px;
+  }
+}
+
+@media (max-width: 425px) {
+  .table__heading {
+    font-family: 'Bebas Neue', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 38px;
+  }
+}
