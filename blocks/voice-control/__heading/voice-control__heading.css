@@ -1,0 +1,26 @@
+.voice-control__heading {
+  grid-area: heading;
+  position: relative;
+  z-index: 1;
+  box-sizing: border-box;
+  max-width: 375px;
+  margin: 72px 0 64px;
+  font-size: 56px;
+  line-height: 1.1;
+}
+
+@media (max-width: 1440px) {
+  .voice-control__heading {
+    font-size: 48px;
+    line-height: 1;
+    margin: 30px 0 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .voice-control__heading {
+    font-size: 34px;
+    margin: 17px 0 33px;
+    max-width: 230px;
+  }
+}

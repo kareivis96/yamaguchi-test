@@ -20,7 +20,23 @@
 @import url('../blocks/table/__paragraph/_type/table__paragraph_type_second.css');
 
 
-
-@import url('../blocks/body/body.css');
-@import url('../blocks/body/body.css');
-@import url('../blocks/body/body.css');
+/* стили блока voice-control */
+@import url('../blocks/voice-control/voice-control.css');
+@import url('../blocks/voice-control/__frame-container/voice-control__frame-container.css');
+@import url('../blocks/voice-control/__frame-img/voice-control__frame-img.css');
+@import url('../blocks/voice-control/__hole-img/voice-control__hole-img.css');
+@import url('../blocks/voice-control/__hole-img/_type/voice-control__hole-img_type_bottom.css');
+@import url('../blocks/voice-control/__grid/voice-control__grid.css');
+@import url('../blocks/voice-control/__heading/voice-control__heading.css');
+@import url('../blocks/voice-control/__hole/voice-control__hole.css');
+@import url('../blocks/voice-control/__paragraph/voice-control__paragraph.css');
+@import url('../blocks/voice-control/__paragraph/_type/voice-control__paragraph_type_first.css');
+@import url('../blocks/voice-control/__paragraph/_type/voice-control__paragraph_type_second.css');
+@import url('../blocks/voice-control/__phone-img/voice-control__phone-img.css');
+@import url('../blocks/voice-control/__call/voice-control__call.css');
+@import url('../blocks/voice-control/__phrases/voice-control__phrases.css');
+@import url('../blocks/voice-control/__second-phrase/voice-control__second-phrase.css');
+@import url('../blocks/voice-control/__first-phrase/voice-control__first-phrase.css');
+@import url('../blocks/voice-control/__frame-img/_type/voice-control__frame-img_type_hide.css');
+@import url('../blocks/voice-control/__hole/_type/voice-control__hole_type_opened.css');
+@import url('../blocks/voice-control/__frame-img/_type/voice-control__frame-img_type_flying.css');

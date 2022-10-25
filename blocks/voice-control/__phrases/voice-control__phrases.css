@@ -1,0 +1,25 @@
+.voice-control__phrases {
+  grid-area: phrases;
+  position: relative;
+  z-index: 1;
+  display: flex;
+  margin: 0 0 86px 60px;
+}
+
+@media (max-width: 1900px) {
+  .voice-control__phrases {
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width: 1440px) {
+  .voice-control__phrases {
+    margin: 0 0 30px 30px;
+  }
+}
+
+@media (max-width: 768px) {
+  .voice-control__phrases {
+    margin: 0 -15px 13px 0;
+  }
+}

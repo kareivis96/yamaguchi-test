@@ -1,0 +1,17 @@
+.voice-control__frame-img_type_flying::before {
+  animation: levitation 3s ease infinite;
+}
+
+@keyframes levitation {
+  0% {
+    transform: translateY(-10px);
+  }
+
+  60% {
+    transform: translateY(10px);
+  }
+
+  100% {
+    transform: translateY(-10px);
+  }
+}

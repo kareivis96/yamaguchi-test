@@ -1,0 +1,17 @@
+.voice-control__call {
+  grid-area: call;
+  position: relative;
+  z-index: 1;
+  margin: 0 0 17px;
+  font-size: 44px;
+  font-weight: 900;
+  line-height: 1;
+}
+
+@media (max-width: 1440px) {
+  .voice-control__call {
+    margin: 0 0 9px;
+    font-size: 38px;
+    line-height: .9;
+  }
+}

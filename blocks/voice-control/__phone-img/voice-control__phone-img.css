@@ -1,0 +1,13 @@
+.voice-control__phone-img {
+  grid-area: phone;
+  position: relative;
+  z-index: 1;
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .voice-control__phone-img {
+    margin: 0 0 30px -41px;
+    width: 140%;
+  }
+}

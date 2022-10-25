@@ -1,0 +1,8 @@
+.voice-control__hole {
+  position: relative;
+  z-index: 1;
+  width: 44.3%;
+  top: 0;
+  transform: scale(1);
+  transition: top 1s ease, transform 1s ease;
+}

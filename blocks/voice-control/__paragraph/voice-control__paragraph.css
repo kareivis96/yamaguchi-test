@@ -1,0 +1,20 @@
+.voice-control__paragraph {
+  position: relative;
+  z-index: 1;
+  font-size: 22px;
+  line-height: 1.7;
+}
+
+@media (max-width: 1440px) {
+  .voice-control__paragraph {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+}
+
+@media (max-width: 768px) {
+  .voice-control__paragraph {
+    font-size: 16px;
+    line-height: 1.7;
+  }
+}

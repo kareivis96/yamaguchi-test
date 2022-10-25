@@ -2,4 +2,6 @@
   font-family: 'Ubuntu', Arial, sans-serif;
   font-style: normal;
   font-weight: 300;
+  max-width: 1920px;
+  margin: 0 auto;
 }
